@@ -1,5 +1,5 @@
 # Searxyz
-Searxyz is a web application that allows users to perform custom web searches. It provides search results from a variety of sources, including text and images. This project is built with React and integrates with the Google Custom Search API.
+Searxyz is a React-based website designed to offer users a personalized search experience with the help of Custom Search JSON API.
 
 ## Features
 - Perform text and image searches.
@@ -14,7 +14,7 @@ Searxyz is a web application that allows users to perform custom web searches. I
 
 ## Technologies Used
 - **React:** Front-end JavaScript library for building user interfaces.
-- **React Router Dom:** For handling routing and navigation.
+- **React-router-dom:** For handling routing and navigation.
 - **Axios:** For making HTTP requests to the Google Custom Search API.
 - **Tailwind CSS:** Styling and layout of the application.
 
