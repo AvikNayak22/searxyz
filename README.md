@@ -20,17 +20,33 @@ Searxyz is a React-based website designed to offer users a personalized search e
 
 ## Getting Started
 
-To run this project locally, follow these steps:
+ To run Searxyz locally on your machine, follow these step-by-step instructions:
 
-1. Clone this repository to your local machine: `git clone https://github.com/AvikNayak22/searxyz.git`
-2. Install the project's dependencies:
+1. Clone the repository to your local machine using the following git command:
+   
+   ```
+   git clone https://github.com/AvikNayak22/searxyz.git
+   ```
+2. Navigate to the project directory:
    ```
    cd searxyz
+   ```
+3. Install the project dependencies using npm:
+   ```
    npm install
    ```
-3. Configure API Keys: Obtain a Google Custom Search API key and a CX key. Update the `VITE_API_KEY` and `VITE_CX_KEY` in your project's environment configuration (e.g., a .env file). You can obtain these credentials by following the [Google Custom Search JSON API documentation](https://developers.google.com/custom-search/docs/tutorial/creatingcse).
-4. Start the development server: `npm run dev`
-5. Open your web browser and navigate to `http://localhost:5173` to access the Searxyz application.
+4. Configure API Keys:
+   - Obtain a Google Custom Search API key and a CX key by following the Google Custom Search JSON API documentation.
+
+   - Update the environment configuration in your project, for example, by creating a `.env` file and adding the obtained keys:
+     ```
+     VITE_API_KEY=your_google_api_key
+     VITE_CX_KEY=your_cx_key
+     ```
+5. Start the development server:
+   ```
+   npm run dev
+   ```
 
 ## Author
 - __Github:__ AvikNayak22
