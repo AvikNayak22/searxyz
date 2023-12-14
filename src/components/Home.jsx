@@ -1,4 +1,4 @@
-import Logo from "../assets/searxyz.png";
+import Logo from "../assets/searxyz.svg";
 import HomeHeader from "./HomeHeader";
 import SearchInput from "./SearchInput";
 import Footer from "./Footer";
