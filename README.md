@@ -1,5 +1,5 @@
 # Searxyz
-Searxyz is a React-based website designed to offer users a personalized search experience with the help of Custom Search JSON API.
+SearXYZ is a reliable tool for finding information quickly and efficiently. No complex interfaces or unnecessary features—just a straightforward search experience tailored for your needs.
 
 ## Features
 - Perform text and image searches.
