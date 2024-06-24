@@ -1,7 +1,7 @@
 ## SearXYZ
 
-Searxyz is a React.js-based web application that uses Google's Custom Search API to search for data on the internet using keywords or phrases.
-- **Deployed Link:** [https://searxyz.netlify.app](https://searxyz.netlify.app)
+Searxyz is a web application built upon the React.js JavaScript library. It leverages Google's Custom Search API to curate search results based on user-specified keywords or phrases. 
+ See the live demo [here.](https://searxyz.netlify.app)
 
 ## Features
 - **Search:** Enter search queries and retrieve search results.
